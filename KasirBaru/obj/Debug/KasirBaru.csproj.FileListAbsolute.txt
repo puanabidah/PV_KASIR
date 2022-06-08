@@ -1,0 +1,14 @@
+D:\Program C#\KasirBaru\KasirBaru\obj\Debug\KasirBaru.csprojResolveAssemblyReference.cache
+D:\Program C#\KasirBaru\KasirBaru\obj\Debug\KasirBaru.MainForm.resources
+D:\Program C#\KasirBaru\KasirBaru\obj\Debug\KasirBaru.csproj.GenerateResource.Cache
+D:\Program C#\KasirBaru\KasirBaru\bin\Debug\KasirBaru.exe
+D:\Program C#\KasirBaru\KasirBaru\bin\Debug\KasirBaru.pdb
+D:\Program C#\KasirBaru\KasirBaru\obj\Debug\KasirBaru.exe
+D:\Program C#\KasirBaru\KasirBaru\obj\Debug\KasirBaru.pdb
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\KasirBaru\KasirBaru\obj\Debug\KasirBaru.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\KasirBaru\KasirBaru\obj\Debug\KasirBaru.MainForm.resources
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\KasirBaru\KasirBaru\obj\Debug\KasirBaru.csproj.GenerateResource.Cache
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\KasirBaru\KasirBaru\obj\Debug\KasirBaru.exe
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\KasirBaru\KasirBaru\obj\Debug\KasirBaru.pdb
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\KasirBaru\KasirBaru\bin\Debug\KasirBaru.exe
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\KasirBaru\KasirBaru\bin\Debug\KasirBaru.pdb
